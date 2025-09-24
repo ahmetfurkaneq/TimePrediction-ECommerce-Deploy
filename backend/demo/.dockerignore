@@ -1,0 +1,19 @@
+# Maven output
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Git
+.git
+.gitignore
+
+# OS files
+*.DS_Store
+Thumbs.db
+
+# Frontend or Node
+node_modules/
+frontend/
